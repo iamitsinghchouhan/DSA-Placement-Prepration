@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="com.jetbrains.cidr.remote.gdbserver.type" factoryName="com.jetbrains.cidr.remote.gdbserver.factory" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" version="1">
+    <custom-gdb-server version="1" gdb-connect="" executable="" warmup-ms="0" download-type="ALWAYS" uploadFile="/tmp/CLion/debug/executable" defaultGdbServerArgs=":1234 /tmp/CLion/debug/executable">
+      <debugger kind="GDB" isBundled="true" />
+    </custom-gdb-server>
+    <method v="2">
+      <option name="CLION.COMPOUND.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>
