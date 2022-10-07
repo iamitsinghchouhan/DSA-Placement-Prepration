@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/vulcan/Documents/Placement Prepration/C++",
-      "program": "/home/vulcan/Documents/Placement Prepration/C++/build/Debug/outDebug",
+      "cwd": "c:/Users/iamit/OneDrive/Documents/Placement Prep/C++",
+      "program": "c:/Users/iamit/OneDrive/Documents/Placement Prep/C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
